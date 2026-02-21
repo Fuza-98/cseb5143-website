@@ -1,0 +1,3 @@
+Isyraf - Do member.php
+Danial - Do contact.php
+Wei Hong - Do about.php
